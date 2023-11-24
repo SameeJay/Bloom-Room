@@ -10,6 +10,7 @@
 
     <!-- this is test comment-->
     <!-- this is test comment-->
+    <!-- New Comment Test-->
 
     <include
         android:id="@+id/app_bar_main"
