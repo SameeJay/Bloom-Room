@@ -9,6 +9,7 @@
     tools:openDrawer="start">
 
     <!-- this is test comment-->
+    <!-- this is test comment-->
 
     <include
         android:id="@+id/app_bar_main"
